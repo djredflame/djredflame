@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @djredflame
-- 👀 I’m interested in C#, JS, CSS and HTML 
+- 👀 I’m interested in C#, JS, TypeScript, CSS and HTML 
 - 🌱 I’m currently learning TypeScript and C#
 - 💞️ I’m looking to collaborate on nothing @ the moment
 - 📫 How to reach me djredflame@gmail.com

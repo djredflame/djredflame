@@ -17,7 +17,7 @@
 
 ---
 
-✨ Passionate about creating innovative web solutions and captivating music. Always eager to learn and embrace new challenges! ✨
+✨ Passionate about creating innovative web solutions and captivating music. Always eager to learn and embrace new challenges ✨
 
 <!---
 djredflame/djredflame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

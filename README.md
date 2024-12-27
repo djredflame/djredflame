@@ -11,7 +11,7 @@
 ## 🌐 **Find Me Online**
 
 <a href="https://www.youtube.com/@DjRedflame" target="_blank">Youtube</a>
-<a href="https://www.tiktok.com/@redflamefit](https://www.tiktok.com/@djredflame" target="_blank">TikTok</a>
+<a href="https://www.tiktok.com/@djredflame" target="_blank">TikTok</a>
 <a href="https://open.spotify.com/artist/08CoKQo0B3qiBUQslqfhAU?si=r2WAGiZ0Q322y2LaDj7blw" target="_blank">Spotify</a>
 <a href="https://music.apple.com/us/artist/dj-redflame/878646665" target="_blank">Apple Music</a>
 
